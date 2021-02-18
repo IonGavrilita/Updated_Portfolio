@@ -71,8 +71,8 @@ The file contain style attribute, background image attribute, footer styling and
 
 
 ### Directory:
-* Website: https://iongavrilita.github.io/h2_responsive_portfolio/
-* Source: https://github.com/IonGavrilita/h2_responsive_portfolio# h2_bootstrap_portfolio
+* Website: https://iongavrilita.github.io/Updated_Portfolio/portfolio.html
+* Source: https://github.com/IonGavrilita/Updated_Portfolio
 
 ### License
 This project is licensed under MIT
