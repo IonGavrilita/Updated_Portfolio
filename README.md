@@ -69,6 +69,7 @@ The file contain style attribute, background image attribute, footer styling and
 * Email: gavrilita.ion.93@gmail.com
 * Github profile: https://github.com/IonGavrilita
 
+
 ### Directory:
 * Website: https://iongavrilita.github.io/h2_responsive_portfolio/
 * Source: https://github.com/IonGavrilita/h2_responsive_portfolio# h2_bootstrap_portfolio
@@ -76,3 +77,4 @@ The file contain style attribute, background image attribute, footer styling and
 ### License
 This project is licensed under MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
